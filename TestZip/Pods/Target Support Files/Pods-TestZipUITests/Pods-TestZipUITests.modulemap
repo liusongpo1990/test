@@ -1,0 +1,6 @@
+framework module Pods_TestZipUITests {
+  umbrella header "Pods-TestZipUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
